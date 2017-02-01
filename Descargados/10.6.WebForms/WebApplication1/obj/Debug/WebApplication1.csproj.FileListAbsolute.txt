@@ -1,0 +1,36 @@
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\bin\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.2.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\bin\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.3.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\bin\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hazael.mojica\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.4.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\bin\WebApplication1.dll.config
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\bin\WebApplication1.dll
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\bin\WebApplication1.pdb
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\Presentaciones\10\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\bin\WebApplication1.dll
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Haza\Desktop\10.5.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\bin\WebApplication1.dll
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Haza\Desktop\10.6.WebForms\WebApplication1\obj\Debug\WebApplication1.pdb

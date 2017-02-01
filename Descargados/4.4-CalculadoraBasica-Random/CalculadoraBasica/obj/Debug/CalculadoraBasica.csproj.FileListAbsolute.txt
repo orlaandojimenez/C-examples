@@ -1,0 +1,109 @@
+c:\users\haza\documents\visual studio 2012\Projects\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Desktop\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica2\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Haza\Dropbox\drive\Update\CursoBasico\1.3-CalculadoraBasica3\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\2\2.1-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\2\2.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\2\2.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.1-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\Haza\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Haza\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Haza\Dropbox\drive\MI-becario\CursoBasico\3\3.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.2-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.3-CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\hazael.mojica\Dropbox\drive\MI-becario\CursoBasico\4\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.main.resources
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\4.4-CalculadoraBasica-Random\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.Cache

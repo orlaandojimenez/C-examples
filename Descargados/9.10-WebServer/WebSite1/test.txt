@@ -1,0 +1,3 @@
+﻿Archivo de texto de ejemplo para AJAX
+Hola Hola
+blabla

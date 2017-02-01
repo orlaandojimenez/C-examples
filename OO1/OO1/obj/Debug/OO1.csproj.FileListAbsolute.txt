@@ -1,0 +1,9 @@
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\bin\Debug\OO1.exe.config
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\bin\Debug\OO1.exe
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\bin\Debug\OO1.pdb
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.csprojResolveAssemblyReference.cache
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.Form1.resources
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.Properties.Resources.resources
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.csproj.GenerateResource.Cache
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.exe
+c:\users\orlando\documents\visual studio 2013\Projects\OO1\OO1\obj\Debug\OO1.pdb

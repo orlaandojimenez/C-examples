@@ -1,0 +1,19 @@
+c:\users\haza\documents\visual studio 2013\Projects\OOP3\OOP3\bin\Debug\OOP3.exe.config
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\bin\Debug\OOP3.exe.config
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\bin\Debug\OOP3.exe
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\bin\Debug\OOP3.pdb
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.csprojResolveAssemblyReference.cache
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.Form1.resources
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.csproj.GenerateResource.Cache
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.exe
+D:\FULL\HAZA_DOCUMENTS\Google Drive\Cursos-FabricaSoftware\CursoIntermedio\7\3.1-OOP3\OOP3\obj\Debug\OOP3.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.exe
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\bin\Debug\OOP3.exe
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\bin\Debug\OOP3.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.csprojResolveAssemblyReference.cache
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.Form1.resources
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.Properties.Resources.resources
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Descargados\7.1-OOP3\OOP3\obj\Debug\OOP3.csproj.GenerateResource.Cache

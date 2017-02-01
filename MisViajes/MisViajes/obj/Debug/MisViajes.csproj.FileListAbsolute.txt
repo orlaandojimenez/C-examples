@@ -1,0 +1,6 @@
+c:\users\orlando\documents\visual studio 2013\Projects\MisViajes\MisViajes\bin\MisViajes.dll.config
+c:\users\orlando\documents\visual studio 2013\Projects\MisViajes\MisViajes\bin\MisViajes.dll
+c:\users\orlando\documents\visual studio 2013\Projects\MisViajes\MisViajes\bin\MisViajes.pdb
+c:\users\orlando\documents\visual studio 2013\Projects\MisViajes\MisViajes\obj\Debug\MisViajes.dll
+c:\users\orlando\documents\visual studio 2013\Projects\MisViajes\MisViajes\obj\Debug\MisViajes.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\MisViajes\MisViajes\obj\Debug\MisViajes.csprojResolveAssemblyReference.cache

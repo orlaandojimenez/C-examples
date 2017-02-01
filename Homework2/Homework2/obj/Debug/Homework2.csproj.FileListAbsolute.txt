@@ -1,0 +1,9 @@
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.exe.config
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.exe
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\bin\Debug\Homework2.pdb
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.Form1.resources
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.Properties.Resources.resources
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.csproj.GenerateResource.Cache
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.exe
+c:\users\orlando\documents\visual studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Orlando\Documents\Visual Studio 2013\Projects\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache

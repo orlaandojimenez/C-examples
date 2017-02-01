@@ -1,0 +1,53 @@
+﻿body {
+    background: #464646 url('http://img0.br.gtsstatic.com/wallpapers/f01a4de015313b0f9043500801647108_large.jpeg') no-repeat fixed center;
+    background-size: cover;
+    height: 23px;
+}
+
+.navbar-inverse li a{
+    color: #fff !important;
+}
+
+
+#cont_logo{
+    bottom: 20px;
+}
+
+#img_logo{
+     width: 80px;
+    height: 80px;
+}
+
+#img_facebook{
+    width: 30px;
+    height: 30px;
+    text-align:right;
+}
+
+#cont_carousel, #cont_redessociales{
+    bottom: 30px;
+}
+
+hr{
+    height: 1px;
+    border: 0;
+    background-color: gray;
+}
+
+#p_redessociales{
+    font-size: medium;
+}
+
+#megusta{
+    width: 150px;
+    height: 50px;
+}
+
+#img_logo{
+    width: 100px;
+    height: 100px;
+}
+
+div.jumbotron{
+    background-color:white;
+}
